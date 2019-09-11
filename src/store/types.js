@@ -1,0 +1,7 @@
+export let VIEW_NAV = 'VIEW_NAV'
+export let VIEW_FOOT = 'VIEW_FOOT'
+export let VIEW_LOADING = 'VIEW_LOADING'
+export let UPDATA_DATA = 'UPDATA_DATA'
+export let CHECK_USER = 'CHECK_USER'
+export let UPDATA_HOME = 'UPDATA_HOME'
+export let UPDATA_FOLLOW = 'UPDATA_FOLLOW'
